@@ -6,7 +6,7 @@ namespace Net22FinalN01446679Events
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
         }
     }
 }
